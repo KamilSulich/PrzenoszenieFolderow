@@ -1,0 +1,7 @@
+C:\gry i filmy\backup slowik1647 google drive\moje własne projekty\programy\PrzenoszenieFolderow\PrzenoszenieFolderow\bin\Debug\PrzenoszenieFolderow.exe.config
+C:\gry i filmy\backup slowik1647 google drive\moje własne projekty\programy\PrzenoszenieFolderow\PrzenoszenieFolderow\bin\Debug\PrzenoszenieFolderow.exe
+C:\gry i filmy\backup slowik1647 google drive\moje własne projekty\programy\PrzenoszenieFolderow\PrzenoszenieFolderow\bin\Debug\PrzenoszenieFolderow.pdb
+C:\gry i filmy\backup slowik1647 google drive\moje własne projekty\programy\PrzenoszenieFolderow\PrzenoszenieFolderow\obj\Debug\PrzenoszenieFolderow.csprojAssemblyReference.cache
+C:\gry i filmy\backup slowik1647 google drive\moje własne projekty\programy\PrzenoszenieFolderow\PrzenoszenieFolderow\obj\Debug\PrzenoszenieFolderow.csproj.CoreCompileInputs.cache
+C:\gry i filmy\backup slowik1647 google drive\moje własne projekty\programy\PrzenoszenieFolderow\PrzenoszenieFolderow\obj\Debug\PrzenoszenieFolderow.exe
+C:\gry i filmy\backup slowik1647 google drive\moje własne projekty\programy\PrzenoszenieFolderow\PrzenoszenieFolderow\obj\Debug\PrzenoszenieFolderow.pdb
